@@ -127,9 +127,17 @@
 }, {
   "uid": 33,
   "name": "Bui's /b/ Archive (Mirror)",
-  "domain": "yeet.net",
+  "domain": "bui.yeet.net",
   "http": true,
   "https": false,
   "software": "foolfuuka",
   "boards": ["b"]
+}, {
+  "uid": 34,
+  "name": "YEET Archive",
+  "domain": "archive.yeet.net",
+  "http": true,
+  "https": false,
+  "software": "foolfuuka",
+  "boards": ["g", "k", "qa"]
 }]
