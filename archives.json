@@ -126,18 +126,18 @@
   "files": ["c", "d", "e", "i", "lgbt", "t", "u"]
 }, {
   "uid": 33,
-  "name": "Bui's /b/ Archive (Mirror)",
-  "domain": "bui.yeet.net",
-  "http": true,
-  "https": false,
-  "software": "foolfuuka",
-  "boards": ["b"]
-}, {
-  "uid": 34,
   "name": "YEET Archive",
   "domain": "archive.yeet.net",
   "http": true,
   "https": false,
   "software": "foolfuuka",
   "boards": ["g", "k", "qa"]
+}, {
+  "uid": 34,
+  "name": "Bui's /b/ Archive (Mirror)",
+  "domain": "bui.yeet.net",
+  "http": true,
+  "https": false,
+  "software": "foolfuuka",
+  "boards": ["b"]
 }]
